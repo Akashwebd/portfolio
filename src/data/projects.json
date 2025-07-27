@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Eccomerce website-Laptop",
+    "imageSrc": "projects/eccomerce.jpg",
+    "description": "Developed an e-commerce platform for laptop having user Authentication,Browse products, filter by ratings, price range, categories, availability and delivery type, sort by price, add towishlist, add to cart, place order and payments",
+    "skills": [
+      "CSS",
+      "React",
+      "Express",
+      "Node",
+      "MongoDB",
+      "Redux Toolkit"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "AIF-PMS",
+    "imageSrc": "projects/aif.jpeg",
+    "description": "Developed AIF And PMS portal for onboarding Investor.Developed module for capturing investor detail,login for different user,esign flow ",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Sass"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Advanced Ticketing System Using RFID",
+    "imageSrc": "projects/rfid.jpeg",
+    "description": "Smart Ticketing System which uses Rfid as electronic ticker,Automatic fare calculation on distance travelled",
+    "skills": [
+      "Html",
+      "CSS",
+      "Node",
+      "MongoDB"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

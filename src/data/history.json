@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "WebileApps (India) Private Limited",
+    "startDate": "December, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on AIF and PMS Investor Onboarding",
+      "Integrated digilocker to update Kyc Address details on the portal",
+      "Developed e-sign feature."
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Engineer I",
+    "organisation": "Grassdoor Logistics Technologies Pvt. Ltd.",
+    "startDate": "October, 2021",
+    "endDate": "October, 2023",
+    "experiences": [
+      "Handle warehouse operations.",
+      "Designed Map Configuration for delivery.Reducing the cost of delivery by 20%",
+      "Developed portal for warehouse for managing drivers",
+      "Developed portal for managing sku operation"
+    ],
+    "imageSrc": "history/microsoft.png"
+  }
+]
