@@ -28,7 +28,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                Passionate Frontend Developer with [X] years of experience
+                Passionate Frontend Developer with 3.5 years of experience
                 building responsive, user-centric web applications using modern
                 technologies like HTML, CSS, JavaScript, React, and Tailwind
                 CSS. Skilled in translating design mockups into
